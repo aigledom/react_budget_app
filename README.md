@@ -1,20 +1,6 @@
 # React Budget Allocation App
 
-In this React Budget Allocation app, you will learn how to break down a UI into React components. You will become familiar with state using the Context API. Furthermore, you will explore actions, reducers, and the dispatch function. You will create a code file, save it, and edit it to make changes.
-
-## Introduction
-
-The React Budget Allocation app is a hands-on project that will help you understand the fundamental concepts of React, state management using the Context API, and how to implement actions and reducers to manage data flow in your application.
-
-## Features
-
-- [ ] Break down UI into React components
-- [ ] Use the Context API for state management
-- [ ] Implement actions, reducers, and dispatch function
-- [ ] Save and edit code files to make changes
-
 ## Setup
-
 To run this project locally, follow these steps:
 
 1. Clone the repository to your local machine using `git clone`.
